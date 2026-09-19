@@ -1,4 +1,4 @@
-# CoursePlus - Landing Page
+# coursera - Landing Page
 
 A simple, responsive landing page inspired by online learning subscription platforms, built with **Bootstrap 5**.
 
